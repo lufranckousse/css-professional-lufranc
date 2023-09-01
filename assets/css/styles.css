@@ -321,10 +321,11 @@ header a.no_hover:hover::before{
       padding: 30px 15px;
     }
 }
-  
+
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 @media screen and (max-width: 575px) {
+    
     .section-title {
       width: 95%;
     }
-  
+}}
